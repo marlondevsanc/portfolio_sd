@@ -13,7 +13,7 @@ export default function Hero() {
       }}
     >
       {/* Overlay oscuro pero no demasiado */}
-      <div className="absolute inset-0 bg-black/50 rounded-lg"></div>
+      <div className="absolute inset-0 bg-black/60 rounded-lg"></div>
 
       {/* Logo */}
       <div
@@ -47,13 +47,13 @@ export default function Hero() {
         </motion.h1>
 
         <motion.p
-          className="description text-white"
+          className="description text-white px-5"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.5, duration: 1 }}
         >
-          Desde la cobertura de eventos hasta el desarrollo web, estamos para amplificar tu presencia digital con un toque único.
-        </motion.p>
+          Creamos soluciones digitales para marcas que buscan destacar. 
+          Gestionamos redes sociales, producimos contenido audiovisual, cubrimos eventos y desarrollamos sitios web con enfoque creativo y estratégico.        </motion.p>
       </div>
     </section>
   );

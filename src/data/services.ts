@@ -11,14 +11,14 @@ export interface Service {
 
 export const services: Service[] = [
   { 
-    title: 'Cobertura de Eventos', 
-    desc: 'Capturamos cada instante de tu evento con elegancia y profesionalismo.', 
-    image: servicio1
-  },
-  { 
     title: 'Gestión de Redes Sociales', 
     desc: 'Diseñamos y administrás tu estrategia digital de manera efectiva y sofisticada.', 
     image: servicio2
+  },
+  { 
+    title: 'Cobertura de Eventos', 
+    desc: 'Capturamos cada instante de tu evento con elegancia y profesionalismo.', 
+    image: servicio1
   },
   { 
     title: 'Producción Audiovisual', 
