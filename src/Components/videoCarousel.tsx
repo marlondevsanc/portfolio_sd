@@ -7,6 +7,9 @@ import { videos } from '../data/videos';
 export default function ReelsCarousel() {
     return (
         <section className="py-10 px-6">
+            <h2 className="font-juana text-3xl font-bold text-center mb-10">
+                Producción de Reels
+            </h2>
             <Swiper
                 modules={[Navigation]}
                 navigation

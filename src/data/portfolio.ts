@@ -118,14 +118,14 @@ export interface PortfolioItem {
 }
 
 export const portfolio: PortfolioItem[] = [
-  { title: 'Fireplace', date: '30/06/25', image: fireplace17, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'portafolio1' },
-  { title: 'Fireplace', date: '30/06/25', image: fireplace18, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'portafolio1' },
-  { title: 'Fireplace', date: '30/06/25', image: fireplace19, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'portafolio1' },
-  { title: 'Fireplace', date: '30/06/25', image: fireplace11, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'portafolio1' },
-  { title: 'Fireplace', date: '30/06/25', image: fireplace12, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'portafolio1' },
-  { title: 'Fireplace', date: '30/06/25', image: fireplace14, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'portafolio1' },
-  { title: 'Fireplace', date: '30/06/25', image: fireplace15, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'portafolio1' },
-  { title: 'Fireplace', date: '30/06/25', image: fireplace16, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'portafolio1' },
+  { title: 'Fireplace', date: '30/06/25', image: fireplace17, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'redes' },
+  { title: 'Fireplace', date: '30/06/25', image: fireplace18, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'redes' },
+  { title: 'Fireplace', date: '30/06/25', image: fireplace19, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'redes' },
+  { title: 'Fireplace', date: '30/06/25', image: fireplace11, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'redes' },
+  { title: 'Fireplace', date: '30/06/25', image: fireplace12, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'redes' },
+  { title: 'Fireplace', date: '30/06/25', image: fireplace14, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'redes' },
+  { title: 'Fireplace', date: '30/06/25', image: fireplace15, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'redes' },
+  { title: 'Fireplace', date: '30/06/25', image: fireplace16, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'redes' },
    { title: 'Fireplace', date: '30/06/25', image: fireplace59, description: 'Photoshoot', logo: fireplacelogo, tipo: 'portafolio1' },
   { title: 'Fireplace', date: '30/06/25', image: fireplace60, description: 'Photoshoot', logo: fireplacelogo, tipo: 'portafolio1' },
   { title: 'Fireplace', date: '30/06/25', image: fireplace62, description: 'Photoshoot', logo: fireplacelogo, tipo: 'portafolio1' },
