@@ -8,7 +8,7 @@ export default function Footer() {
         
         {/* Descripción */}
         <p className="mt-3 text-sm max-w-md font-juana">
-          Diseñamos experiencias digitales con intención, combinando creatividad y estrategia 
+          Diseñamos experiencias digitales, combinando creatividad y estrategia 
           para que tu marca destaque en el mundo online.
         </p>
 

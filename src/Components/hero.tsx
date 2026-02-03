@@ -52,7 +52,6 @@ export default function Hero() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.5, duration: 1 }}
         >
-          Creamos soluciones digitales para marcas que buscan destacar. 
           Gestionamos redes sociales, producimos contenido audiovisual, cubrimos eventos y desarrollamos sitios web con enfoque creativo y estratégico.        </motion.p>
       </div>
     </section>
