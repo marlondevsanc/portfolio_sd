@@ -46,19 +46,30 @@ import logovalientes from '../assets/Images/valientesybellas/logovalientesybella
 import valientesreel1 from '../assets/Images/valientesybellas/reels/IMG_5328.mp4';
 import valientesreel2 from '../assets/Images/valientesybellas/reels/IMG_5329.mp4';;
 import valientesreel3 from '../assets/Images/valientesybellas/reels/IMG_5330.mp4';
+import valientesreel4 from '../assets/Images/valientesybellas/reels/VYB5331.mp4';
 
 // Soludental
 
 import logosoludental from '../assets/Images/soludental/soludentallogo.jpg'
 import soludentalreel1 from '../assets/Images/soludental/reels/IMG_5338.mp4';
-import soludentalreel2 from '../assets/Images/soludental/reels/IMG_5339.mp4';;
-import soludentalreel3 from '../assets/Images/soludental/reels/IMG_5340.mp4';;
-import soludentalreel4 from '../assets/Images/soludental/reels/IMG_5341.mp4';;
-import soludentalreel5 from '../assets/Images/soludental/reels/IMG_5342.mp4';;
+import soludentalreel2 from '../assets/Images/soludental/reels/IMG_5339.mp4';
+import soludentalreel3 from '../assets/Images/soludental/reels/IMG_5340.mp4';
+import soludentalreel4 from '../assets/Images/soludental/reels/IMG_5341.mp4';
+import soludentalreel5 from '../assets/Images/soludental/reels/IMG_5342.mp4';
+
+
+// Internista Agusto Somarriba
+
+import asomarribaVideo1 from '../assets/Images/agustoSomarriba/reels/A.S- 1.mp4';
+import asomarribaVideo2 from '../assets/Images/agustoSomarriba/reels/A.S- 2.mp4';
+import asomarribaVideo3 from '../assets/Images/agustoSomarriba/reels/A.S- 3.mp4';
+import asomarribalogo from '../assets/Images/agustoSomarriba/logo.png';
 
 
 export const videos: VideoItem[] = [
- 
+    { title: 'Agusto Somarriba', src: asomarribaVideo1, logo: asomarribalogo },
+    { title: 'Agusto Somarriba', src: asomarribaVideo2, logo: asomarribalogo },
+    { title: 'Agusto Somarriba', src: asomarribaVideo3, logo: asomarribalogo },
     { title: 'Fireplace', src: fireplace1, logo: fireplacelogo },
     { title: 'Fireplace', src: fireplace2, logo: fireplacelogo },
     { title: 'Fireplace', src: fireplace3, logo: fireplacelogo },
@@ -83,6 +94,7 @@ export const videos: VideoItem[] = [
     { title: 'Dreamers Concept Store', src: dreamersReel5, logo: logoDreamers },
     { title: 'Dreamers Concept Store', src: dreamersReel6, logo: logoDreamers },
     { title: 'Dreamers Concept Store', src: dreamersReel7, logo: logoDreamers },
+    { title: 'Valientes y Bellas', src: valientesreel4, logo: logovalientes },
     { title: 'Valientes y Bellas', src: valientesreel1, logo: logovalientes },
     { title: 'Valientes y Bellas', src: valientesreel2, logo: logovalientes },
     { title: 'Valientes y Bellas', src: valientesreel3, logo: logovalientes },

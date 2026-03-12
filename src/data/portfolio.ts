@@ -108,6 +108,20 @@ import santurario2 from '../assets/Images/santuarionatural/santuarionatural2.jpg
 import santurario3 from '../assets/Images/santuarionatural/santuarionatural3.jpg'
 import logosanturario from '../assets/Images/santuarionatural/logosantuarionatural.jpg'
 
+// Doctor Agusto Sobarriba
+
+import asomarriba1 from '../assets/Images/agustoSomarriba/asomarriba1.jpg'
+import asomarriba2 from '../assets/Images/agustoSomarriba/asomarriba2.jpg'
+import asomarriba3 from '../assets/Images/agustoSomarriba/asomarriba3.jpg'
+import asomarriba4 from '../assets/Images/agustoSomarriba/asomarriba4.jpg'
+import asomarriba5 from '../assets/Images/agustoSomarriba/asomarriba5.jpg'
+import asomarriba6 from '../assets/Images/agustoSomarriba/asomarriba6.jpg'
+import asomarriba7 from '../assets/Images/agustoSomarriba/asomarriba7.jpg'
+import asomarriba8 from '../assets/Images/agustoSomarriba/asomarriba8.jpg'
+import asomarriba9 from '../assets/Images/agustoSomarriba/asomarriba9.jpg'
+import asomarriba10 from '../assets/Images/agustoSomarriba/asomarriba10.jpg'
+import asomarribalogo from '../assets/Images/agustoSomarriba/logo.png'
+
 export interface PortfolioItem {
   title: string;
   image: string;
@@ -118,6 +132,22 @@ export interface PortfolioItem {
 }
 
 export const portfolio: PortfolioItem[] = [
+
+  
+  /* Internista AS */
+
+  { title: 'Doctor Agusto Somarriba', date: '30/06/25', image: asomarriba1, description: 'Creación de contenido para redes sociales', logo: asomarribalogo, tipo: 'portafolio1' },
+  { title: 'Doctor Agusto Somarriba', date: '30/06/25', image: asomarriba2, description: 'Creación de contenido para redes sociales', logo: asomarribalogo, tipo: 'portafolio1' },
+  { title: 'Doctor Agusto Somarriba', date: '30/06/25', image: asomarriba3, description: 'Creación de contenido para redes sociales', logo: asomarribalogo, tipo: 'portafolio1' },
+  { title: 'Doctor Agusto Somarriba', date: '30/06/25', image: asomarriba4, description: 'Creación de contenido para redes sociales', logo: asomarribalogo, tipo: 'portafolio1' },
+  { title: 'Doctor Agusto Somarriba', date: '30/06/25', image: asomarriba5, description: 'Creación de contenido para redes sociales', logo: asomarribalogo, tipo: 'portafolio1' },
+  { title: 'Doctor Agusto Somarriba', date: '30/06/25', image: asomarriba6, description: 'Creación de contenido para redes sociales', logo: asomarribalogo, tipo: 'portafolio1' },
+  { title: 'Doctor Agusto Somarriba', date: '30/06/25', image: asomarriba7, description: 'Creación de contenido para redes sociales', logo: asomarribalogo, tipo: 'portafolio1' },
+  { title: 'Doctor Agusto Somarriba', date: '30/06/25', image: asomarriba8, description: 'Creación de contenido para redes sociales', logo: asomarribalogo, tipo: 'portafolio1' },
+  { title: 'Doctor Agusto Somarriba', date: '30/06/25', image: asomarriba9, description: 'Creación de contenido para redes sociales', logo: asomarribalogo, tipo: 'portafolio1' },
+  { title: 'Doctor Agusto Somarriba', date: '30/06/25', image: asomarriba10, description: 'Creación de contenido para redes sociales', logo: asomarribalogo, tipo: 'portafolio1' },
+  
+
   { title: 'Fireplace', date: '30/06/25', image: fireplace17, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'redes' },
   { title: 'Fireplace', date: '30/06/25', image: fireplace18, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'redes' },
   { title: 'Fireplace', date: '30/06/25', image: fireplace19, description: 'Creación de contenido', logo: fireplacelogo, tipo: 'redes' },
@@ -143,6 +173,7 @@ export const portfolio: PortfolioItem[] = [
   { title: 'Fireplace', date: '30/06/25', image: fireplace8, description: 'Photoshoot ', logo: fireplacelogo, tipo: 'portafolio1' },
   { title: 'Fireplace', date: '30/06/25', image: fireplace9, description: 'Photoshoot ', logo: fireplacelogo, tipo: 'portafolio1' },
   { title: 'Fireplace', date: '30/06/25', image: fireplace10, description: 'Photoshoot ', logo: fireplacelogo, tipo: 'portafolio1' },
+
   /*{ title: 'Daykas Store', date: '30/06/25', image: daika1, description: 'Photoshoot ', logo: daykalogo, tipo: 'portafolio1' },
   { title: 'Daykas Store', date: '30/06/25', image: daika2, description: 'Photoshoot ', logo: daykalogo, tipo: 'portafolio1' },
   { title: 'Daykas Store', date: '30/06/25', image: daika3, description: 'Photoshoot ', logo: daykalogo, tipo: 'portafolio1' },
