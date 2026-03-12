@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import logoSd from '../assets/Images/logosd.png'
+import logoSd from '/Images/logosd.png'
 
 const secondPartVariants = {
     hidden: { opacity: 0, x: -50 }, 

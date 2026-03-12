@@ -1,7 +1,7 @@
-import servicio1 from '../assets/Images/servicios/26.jpg';
-import servicio2 from '../assets/Images/servicios/27.jpg';
-import servicio3 from '../assets/Images/servicios/28.jpg';
-import servicio4 from '../assets/Images/servicios/29.jpg';
+import servicio1 from '/Images/servicios/26.jpg';
+import servicio2 from '/Images/servicios/27.jpg';
+import servicio3 from '/Images/servicios/28.jpg';
+import servicio4 from '/Images/servicios/29.jpg';
 
 export interface Service {
   title: string;

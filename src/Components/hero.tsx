@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
-import logo from '../assets/Images/logosdblanco.png';
-import fondo from '../assets/Images/fondo-portafolio.jpg';
+import logo from '/Images/logosdblanco.png';
+import fondo from '/Images/fondo-portafolio.jpg';
 
 export default function Hero() {
   return (
